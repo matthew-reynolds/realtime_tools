@@ -7,7 +7,7 @@ See [ros_control](http://wiki.ros.org/ros_control) and [realtime_tools](http://w
 
 ### Build Status
 
-[![Build Status](https://github.com/ros-controls/realtime_tools/workflows/Test%20realtime_tools/badge.svg?branch=noetic-devel)](https://github.com/ros-controls/realtime_tools/actions?query=workflow%3A%22Test+realtime_tools%22+branch%3Anoetic-devel)
+[![Build Status](https://github.com/matthew-reynolds/realtime_tools/workflows/Test%20realtime_tools/badge.svg?branch=noetic-devel)](https://github.com/matthew-reynolds/realtime_tools/actions?query=workflow%3A%22Test+realtime_tools%22+branch%3Anoetic-devel)
 
 ## Publication
 
